@@ -1,4 +1,5 @@
-# Classification-of-Whole-Exome-Sequencing
+# Classification of Whole Exome Sequencing
+
 Final project from CS542 Machine Learning (2018)
 
 Title: Classification of Genomic Variants from Whole Exome Sequencing with Machine Learning
