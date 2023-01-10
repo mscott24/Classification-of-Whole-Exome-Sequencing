@@ -1,8 +1,6 @@
-# Classification of Whole Exome Sequencing
+# Classification of Genomic Variants from Whole Exome Sequencing with Machine Learning
 
 Final project from CS542 Machine Learning (2018)
-
-Title: Classification of Genomic Variants from Whole Exome Sequencing with Machine Learning
 
 Abstract:Next Generation Sequencing (NGS) allows for the in depth investigation of cancer
 genomes. As whole genome sequencing transitions from research environment to
