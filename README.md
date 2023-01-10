@@ -14,4 +14,4 @@ low coverage dataset. Leveraging the advances that have been made in recent year
 in the field of machine learning, we implement two sets of classification algorithms
 to solve this problem. We implement both a soft-margin support vector machine
 (SVM) and a tuned random forest (RF) algorithm. Accuracy for both methods
-reached >95%. With these
+reached >95%. 
